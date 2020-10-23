@@ -1,4 +1,4 @@
-#Lark2002's Tarkov Challenge Generator V0.1
+#Lark2002's Tarkov Challenge Generator V0.1 testing
 import discord
 from discord.ext import commands
 import os
